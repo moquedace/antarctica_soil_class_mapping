@@ -1,0 +1,33 @@
+# Local research archive (preserved outside the public release)
+/_research_scripts/
+
+# Publisher PDF used to prepare this repository
+/1-s2.0-*-main.pdf
+
+# Local rendering and QA artifacts
+/tmp/
+/output/
+/README.html
+
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Large inputs and generated products (published through Zenodo)
+/dataset/
+/extract_xy/
+/reproject/
+/tiles_covariaveis/
+/rf/
+/shapes/
+/figures/
+/graficos_comparacao/
+/data/
+/derived/
+
+# Raster sidecars and temporary files
+*.aux.xml
+*.ovr
+*.tmp

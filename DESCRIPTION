@@ -1,0 +1,24 @@
+Package: antarcticaSoilClassMapping
+Type: Project
+Title: Probability-Driven Soil Class Mapping in Antarctica
+Version: 1.0.0
+Authors@R: c(
+    person("Rafael G.", "Siqueira", role = c("aut", "cre"),
+           email = "rafael.g.siqueira@ufv.br"),
+    person("Cássio M.", "Moquedace", role = "aut"),
+    person("Márcio R.", "Francelino", role = "aut")
+  )
+Description: Curated analytical scripts documenting the probability-based
+    Random Forest workflow used to derive ranked Antarctic soil-class
+    probabilities and uncertainty-aware soil mapping units. Source data are
+    not distributed; final spatial products are archived separately on Zenodo.
+License: MIT
+URL: https://github.com/moquedace/antarctica_soil_class_mapping
+BugReports: https://github.com/moquedace/antarctica_soil_class_mapping/issues
+Depends:
+    R (>= 4.1.0)
+Imports:
+    caret,
+    dplyr,
+    terra
+Encoding: UTF-8

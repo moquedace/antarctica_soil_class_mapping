@@ -1,0 +1,100 @@
+cff-version: 1.2.0
+message: >-
+  If you use this repository, please cite the associated Catena article and
+  the Zenodo spatial dataset.
+title: >-
+  Code supporting probability-driven soil class mapping and uncertainty-aware
+  soil mapping units in Antarctica
+type: software
+version: 1.0.0
+date-released: 2026-07-25
+repository-code: https://github.com/moquedace/antarctica_soil_class_mapping
+license: MIT
+authors:
+  - family-names: Siqueira
+    given-names: Rafael G.
+  - family-names: Moquedace
+    given-names: Cássio M.
+  - family-names: Francelino
+    given-names: Márcio R.
+  - family-names: Schaefer
+    given-names: Carlos Ernesto G. R.
+  - family-names: Michel
+    given-names: Roberto F. M.
+  - family-names: Schmitz
+    given-names: Daniela
+  - family-names: Ferrari
+    given-names: Flávia R.
+  - family-names: Delpupo
+    given-names: Caroline
+  - family-names: Senra
+    given-names: Eduardo O.
+  - family-names: Palma
+    given-names: Heitor P.
+  - family-names: Krum
+    given-names: Daniel N.
+  - family-names: Oliveira
+    given-names: Fábio S. de
+  - family-names: Pereira
+    given-names: Thiago T. C.
+  - family-names: Lopes
+    given-names: Davi do V.
+  - family-names: Thomazini
+    given-names: André
+  - family-names: Gjorup
+    given-names: Davi F.
+  - family-names: Almeida
+    given-names: Ivan Carlos C.
+  - family-names: Fernandes-Filho
+    given-names: Elpídio Inácio
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.19475873
+    description: Zenodo record for the spatial products
+preferred-citation:
+  type: article
+  title: >-
+    Bridging soil mapping units and digital soil mapping through
+    probability-driven machine learning: an uncertainty-aware framework for
+    soil class prediction in Antarctica
+  authors:
+    - family-names: Siqueira
+      given-names: Rafael G.
+    - family-names: Moquedace
+      given-names: Cássio M.
+    - family-names: Francelino
+      given-names: Márcio R.
+    - family-names: Schaefer
+      given-names: Carlos Ernesto G. R.
+    - family-names: Michel
+      given-names: Roberto F. M.
+    - family-names: Schmitz
+      given-names: Daniela
+    - family-names: Ferrari
+      given-names: Flávia R.
+    - family-names: Delpupo
+      given-names: Caroline
+    - family-names: Senra
+      given-names: Eduardo O.
+    - family-names: Palma
+      given-names: Heitor P.
+    - family-names: Krum
+      given-names: Daniel N.
+    - family-names: Oliveira
+      given-names: Fábio S. de
+    - family-names: Pereira
+      given-names: Thiago T. C.
+    - family-names: Lopes
+      given-names: Davi do V.
+    - family-names: Thomazini
+      given-names: André
+    - family-names: Gjorup
+      given-names: Davi F.
+    - family-names: Almeida
+      given-names: Ivan Carlos C.
+    - family-names: Fernandes-Filho
+      given-names: Elpídio Inácio
+  journal: Catena
+  volume: 273
+  year: 2026
+  doi: 10.1016/j.catena.2026.110421
