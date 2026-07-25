@@ -60,7 +60,7 @@ The study replaces a single deterministic class at each pixel with a structured,
 | Predictors | Soil properties, terrain attributes, geology, and Sentinel-2 covariates |
 | Model | Probability-based Random Forest, 500 trees |
 | Validation | 100 repeated 80:20 train/test splits; repeated 10-fold CV for tuning |
-| Feature selection | Near-zero variance filter, correlation filter (`|r| > 0.95`), and RFE |
+| Feature selection | Near-zero variance filter, correlation filter (`\|r\| > 0.95`), and RFE |
 | Reported performance | Accuracy 0.43 · kappa 0.31 · balanced accuracy 0.61 · F1 0.44 |
 | Uncertainty representation | Five ranked classes and probabilities, integrated into soil mapping units |
 
