@@ -3,10 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://doi.org/10.1016/j.catena.2026.110421"><img alt="Article DOI" src="https://img.shields.io/badge/article-10.1016%2Fj.catena.2026.110421-0b6b77?style=for-the-badge"></a>
-  <a href="https://doi.org/10.5281/zenodo.19475873"><img alt="Data DOI" src="https://img.shields.io/badge/data-10.5281%2Fzenodo.19475873-c98b50?style=for-the-badge"></a>
-  <img alt="R" src="https://img.shields.io/badge/R-spatial%20modeling-276b80?style=for-the-badge&logo=r">
-  <img alt="Status" src="https://img.shields.io/badge/status-published-5d8f6a?style=for-the-badge">
+  <img src="assets/research_groups.png" alt="LABGEO DPS-UFV and TERRANTAR research groups" width="760">
+</p>
+
+<p align="center">
+  <a href="https://doi.org/10.1016/j.catena.2026.110421"><img alt="Article DOI" src="https://img.shields.io/badge/article-10.1016%2Fj.catena.2026.110421-0b6b77?style=flat-square"></a> <a href="https://doi.org/10.5281/zenodo.19475873"><img alt="Data DOI" src="https://img.shields.io/badge/data-10.5281%2Fzenodo.19475873-c98b50?style=flat-square"></a> <img alt="R" src="https://img.shields.io/badge/R-spatial%20modeling-276b80?style=flat-square&logo=r"> <img alt="Status" src="https://img.shields.io/badge/status-published-5d8f6a?style=flat-square">
 </p>
 
 <p align="center">
@@ -46,7 +47,7 @@ The study replaces a single deterministic class at each pixel with a structured,
   <img src="assets/study_area.jpg" alt="Location of the Antarctic study areas and mapped ice-free sectors" width="100%">
 </p>
 
-**Study area.** Major ice-free sectors of the South Shetland Islands, Elephant Island, Low Island, the James Ross Islands, and Hope Bay on the northern Antarctic Peninsula. Figure from [Siqueira et al. (2026)](https://doi.org/10.1016/j.catena.2026.110421), reproduced under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); originally adapted from Siqueira et al. (2024).
+**Study area.** Major ice-free sectors of the South Shetland Islands, Elephant Island, Low Island, the James Ross Islands, and Hope Bay on the northern Antarctic Peninsula. Figure from [Siqueira et al. (2026)](https://doi.org/10.1016/j.catena.2026.110421), reproduced under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); originally adapted from [Siqueira et al. (2024)](https://doi.org/10.1016/j.catena.2023.107677).
 
 ## At a glance
 
@@ -83,6 +84,16 @@ flowchart LR
 ```
 
 The full methodological correspondence between the article and the public scripts is documented in [Methods and code](pages/methods-and-code.md).
+
+<details>
+<summary><strong>Open the published methodological diagram</strong></summary>
+<br>
+<p align="center">
+  <img src="assets/published_workflow.jpg" alt="Published workflow from observations and environmental covariates to probability-supported soil mapping units" width="100%">
+</p>
+
+**Published workflow.** The complete analytical design links database assembly, covariate screening, repeated Random Forest modeling, class-probability maps, and the construction of one- to five-component soil mapping units. Figure from [Siqueira et al. (2026)](https://doi.org/10.1016/j.catena.2026.110421), reproduced under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+</details>
 
 ## Quick start
 
